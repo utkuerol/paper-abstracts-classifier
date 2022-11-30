@@ -1,0 +1,11 @@
+,sentence,background_motivation,aim_contribution_research_object,research_method,results_findings_summary
+0,Developers have access to tools like Google Lighthouse to assess the performance of web apps and to guide the adoption of development best practices.,1,0,0,0
+1,"However, when it comes to energy consumption of mobile web apps, these tools seem to be lacking.",1,0,0,0
+2,This study investigates on the correlation between the performance scores produced by Lighthouse and the energy consumption of mobile web apps.,0,1,0,0
+3,We design and conduct an empirical experiment where 21 real mobile web apps are (i) analyzed via the Lighthouse performance analysis tool and (ii) measured on an Android device running a software-based energy profiler.,0,0,1,0
+4,"Then, we statistically assess how energy consumption correlates with the obtained performance scores and carry out an effect size estimation.",0,0,1,0
+5,"We discover a statistically significant negative correlation between performance scores and the energy consumption of mobile web apps (with medium to large effect sizes), implying that an increase of the performance score tend to lead to a decrease of energy consumption.",0,0,0,1
+6,"We recommend developers to strive to improve the performance level of their mobile web apps, as this can also have a positive impact on their energy consumption on Android devices.",0,0,0,1
+7,Factors such as app stores or platform choices heavily affect functional and non-functional mobile app requirements.,1,0,0,0
+8,We surveyed 45 companies and interviewed ten experts to explore how factors that impact mobile app requirements are understood by requirements engineers in the mobile app industry.,0,0,1,0
+9,We observed the lack of knowledge in several areas.,0,0,0,1

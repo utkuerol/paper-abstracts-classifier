@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  svm:
+    build: .
+    command: python main.py svm 1 1 0 0 tfidf
+  randomforest:
+    build: .
+    command: python main.py randomforest 1 1 0 0 tfidf
+  lstm:
+    build: .
+    command: python main.py lstm 1 1 0 0 tfidf
