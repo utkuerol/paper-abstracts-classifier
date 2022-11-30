@@ -1,4 +1,4 @@
-# Praktikum WfAM - Utku Erol
+# An Automated Classification Approach for Software Engineering Papers
 
 This document summarizes the work on the practical course project "An Automated Classification Approach for Software Engineering Papers". The goal is to make scientific papers more efficiently searchable by enriching the text with ML-generated metadata (labels). We aim to achieve this by classifying each sentence as e.g. "background and motivation" or "summary. 
 
